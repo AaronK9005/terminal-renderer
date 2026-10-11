@@ -1,0 +1,4 @@
+old/*
+
+build/*
+!build/terminal_renderer.exe
